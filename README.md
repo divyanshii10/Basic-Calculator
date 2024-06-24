@@ -1,1 +1,1 @@
-# Basic-Calculator
+This GUI based calculator mini project performs basic arithmetic operations such as addition, subtraction, multiplication, and division. GUIs provide an intuitive way for users to interact with software. Instead of using command-line instructions, users can click buttons, select options, and visually understand the application's workflow. 
